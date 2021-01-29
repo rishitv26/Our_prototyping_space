@@ -6,6 +6,8 @@ list = [
     'wuhan china',
     'covid vaccines',
     'elections',
+    'bitcoins',
+    'the boat thing with the face on it',
 ]
 
 print(list)
