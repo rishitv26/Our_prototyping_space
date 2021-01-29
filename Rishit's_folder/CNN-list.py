@@ -8,6 +8,7 @@ list = [
     'elections',
     'bitcoins',
     'the boat thing with the face on it',
+    'dancing robots',
 ]
 
 print(list)
