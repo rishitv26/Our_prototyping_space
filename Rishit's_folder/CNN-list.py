@@ -11,4 +11,9 @@ list = [
     'dancing robots',
 ]
 
+history = [
+
+]
+
 print(list)
+print(history)
