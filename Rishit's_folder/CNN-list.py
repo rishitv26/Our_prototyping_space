@@ -12,7 +12,11 @@ list = [
 ]
 
 history = [
-
+    "WWII",
+    'Korean war',
+    'Vietnam war',
+    'WWI',
+    'Separation of Taiwan from China',
 ]
 
 print(list)
