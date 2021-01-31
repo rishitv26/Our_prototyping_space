@@ -1,5 +1,5 @@
 # create a list that will act like database:
-db = ['win', 'men', 'cans', 'lol', 'hello']
+db = ['lololololololololololol']
 
 # create an empty list to store filtered data:
 verified = []
@@ -13,10 +13,11 @@ while run:
     for list in db:
         processed = entered in db
         if processed:
-            verified.append[list]
+            verified += list
         if len(verified) == 0:
             error = True
             break
+    print(verified)
 
 
 if error:
